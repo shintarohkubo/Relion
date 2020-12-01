@@ -1,0 +1,35 @@
+Map9_00008_3-1.mrcs   HelicalTubeID: 1  ClaaNumber: 1  Num_of_images_for_average: 16
+Map9_00008_3-1.mrcs   HelicalTubeID: 1  ClaaNumber: 2  Num_of_images_for_average: 2
+Map9_00008_3-1.mrcs   HelicalTubeID: 1  ClaaNumber: 3  Num_of_images_for_average: 2
+Map9_00008_3-1.mrcs   HelicalTubeID: 1  ClaaNumber: 6  Num_of_images_for_average: 1
+Map9_00008_3-1.mrcs   HelicalTubeID: 1  ClaaNumber: 7  Num_of_images_for_average: 2
+Map9_00008_3-1.mrcs   HelicalTubeID: 1  ClaaNumber: 8  Num_of_images_for_average: 1
+total_image_number_of_Map9_00008_3-1.mrcs: 6
+Map9_00012_4-1.mrcs   HelicalTubeID: 1  ClaaNumber: 1  Num_of_images_for_average: 18
+Map9_00012_4-1.mrcs   HelicalTubeID: 1  ClaaNumber: 5  Num_of_images_for_average: 2
+Map9_00012_4-1.mrcs   HelicalTubeID: 2  ClaaNumber: 1  Num_of_images_for_average: 14
+Map9_00012_4-1.mrcs   HelicalTubeID: 2  ClaaNumber: 4  Num_of_images_for_average: 3
+Map9_00012_4-1.mrcs   HelicalTubeID: 2  ClaaNumber: 5  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 2  ClaaNumber: 6  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 2  ClaaNumber: 7  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 2  ClaaNumber: 8  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 2  ClaaNumber: 9  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 2  ClaaNumber: 10  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 3  ClaaNumber: 1  Num_of_images_for_average: 4
+Map9_00012_4-1.mrcs   HelicalTubeID: 3  ClaaNumber: 6  Num_of_images_for_average: 4
+Map9_00012_4-1.mrcs   HelicalTubeID: 3  ClaaNumber: 8  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 3  ClaaNumber: 9  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 4  ClaaNumber: 1  Num_of_images_for_average: 4
+Map9_00012_4-1.mrcs   HelicalTubeID: 4  ClaaNumber: 2  Num_of_images_for_average: 2
+Map9_00012_4-1.mrcs   HelicalTubeID: 4  ClaaNumber: 3  Num_of_images_for_average: 3
+Map9_00012_4-1.mrcs   HelicalTubeID: 5  ClaaNumber: 1  Num_of_images_for_average: 13
+Map9_00012_4-1.mrcs   HelicalTubeID: 6  ClaaNumber: 1  Num_of_images_for_average: 8
+Map9_00012_4-1.mrcs   HelicalTubeID: 6  ClaaNumber: 2  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 6  ClaaNumber: 3  Num_of_images_for_average: 1
+Map9_00012_4-1.mrcs   HelicalTubeID: 6  ClaaNumber: 5  Num_of_images_for_average: 1
+total_image_number_of_Map9_00012_4-1.mrcs: 22
+Map9_00019_1-4.mrcs   HelicalTubeID: 1  ClaaNumber: 1  Num_of_images_for_average: 6
+Map9_00019_1-4.mrcs   HelicalTubeID: 1  ClaaNumber: 2  Num_of_images_for_average: 1
+Map9_00019_1-4.mrcs   HelicalTubeID: 1  ClaaNumber: 3  Num_of_images_for_average: 1
+Map9_00019_1-4.mrcs   HelicalTubeID: 1  ClaaNumber: 4  Num_of_images_for_average: 2
+total_image_number_of_Map9_00019_1-4.mrcs: 4
