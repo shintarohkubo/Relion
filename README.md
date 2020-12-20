@@ -35,7 +35,7 @@ In the ver2, you can set the number directly, but you shouldn't add space betwee
 (ex) ```GoodClassId=1, 2``` is wrong usage. ```GoodClassId=1,2``` is correct.
 
 Honestly I think that the way of setting ID like this (not used good-class-num.txt) is boring.
-If you also think so, you can use some simple bash&awk script.
+If you also think so, you edit ```support_for_unify_mt_ver2-awk_script.sh```. This script help your running ver2.awk.
 
 ## Generate segment average (rolling average) of the Microtubules.
 
