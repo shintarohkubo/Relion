@@ -26,6 +26,17 @@ $cat good-class-num.txt
 ```
 Note: this script give you a new ClassNumber. If classes are good, the new class number is 1. If classes are bad, the new class number is 2. 
 
+### if you treat large file for input...you should use ver2.awk like below
+```
+awk -v GoodClassId=1,2 -v border_score=0.7 -f unify_mt_classification_ver2.awk input.star > output.star
+```
+You should check the way how to set Good Class ID is changed.
+In the ver2, you can set the number directly, but you shouldn't add space between "," and the next number.
+(ex) ```GoodClassId=1, 2``` is wrong usage. ```GoodClassId=1,2``` is correct.
+
+Honestly I think that the way of setting ID like this (not used good-class-num.txt) is boring.
+If you also think so, you can use some simple bash&awk script.
+
 ## Generate segment average (rolling average) of the Microtubules.
 
 When you use Helical Processing in Relion, you might get the continued images along some MT.
